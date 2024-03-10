@@ -1,7 +1,7 @@
 # 😎Hey guys! Nice to see you. <br>
 ### Welcome to my Github page!<br>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Parker-rfu)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:renyufu0022@gmail.com)
 
 This is Renyu Fu 👋, a computer science student from 🇨🇳 Chengdu, currently studying in CUG, Wuhan.<br>
