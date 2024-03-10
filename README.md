@@ -6,7 +6,7 @@
 
 This is Renyu Fu 👋, a computer science student from 🇨🇳 Chengdu, currently studying in CUG, Wuhan.<br>
 
-<img align="right" alt="img" src="https://github.com/Parker-rfu/Parker-rfu/屏幕截图 2024-03-10 141658.png" width="50%" height="auto" />
+<img align="right" alt="img" src="屏幕截图 2024-03-10 141658.png" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
