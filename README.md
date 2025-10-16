@@ -11,14 +11,7 @@ This is Renyu Fu 👋, a computer science student from 🇨🇳 Chengdu.<br>
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Undergraduate Degree  
-- Taking online courses about Computer Vision and Machine Learning 
-- To practice my linux programming skills for my future internship 🚀 
-
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 3 hours a day
-- Exercising 2 days a week ⚽
-- Reading 3 books in a month
+- Taking online courses about LLM and Reinforcement Learning
 
 #### :computer: Programming languages and tools: 
 <p>
